@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 	- it creates the .git file
 	- the file holds the git metadata
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	- The rep holds all the versions of the files the SA only the latest
+	- The WD holds the latest copy only of all files. The SA hold the latest copy of the files to be tracked
+
