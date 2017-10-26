@@ -7,5 +7,8 @@ How is the staging area different from the working directory and the repository?
 	- The WD holds the latest copy only of all files. The SA hold the latest copy of the files to be tracked
 
 How can you use the staging area to make sure you have one commit per logical change?
-	- You only add to the staging area the files you want to commit to the repository The commit command only takes
+	- You only add to the staging area the files you want to commit to the repository. The commit command only takes
 	staging area files to update the repo.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	- Where you want to try out a new feature without modifying the current version
